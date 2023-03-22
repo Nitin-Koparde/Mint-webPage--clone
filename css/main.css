@@ -313,7 +313,7 @@ header {
 /* news-panel */
 .news-container {
   color: #fff;
-  background-image: url(/images/bkr-quote-row.jpg);
+  background-image: url(images/bkr-quote-row.jpg);
   text-align: center;
   margin-bottom: 80px;
 }
